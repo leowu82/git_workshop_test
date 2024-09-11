@@ -1,3 +1,3 @@
 This is a Git Workshop!
 
-hi, there.
+Adding more features...
